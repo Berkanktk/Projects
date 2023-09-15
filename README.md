@@ -1,5 +1,7 @@
 # Introduction
-This page contains a list of all my projects. It is a work in progress and will be updated as I work on more projects.
+This page contains a list of all my projects. It is a work in progress and will be updated as I work on more projects. 
+
+> Private projects without links are showcased in my personal website.
 
 # Table of Contents
 * [Introduction](#introduction)
@@ -48,6 +50,7 @@ This page contains a list of all my projects. It is a work in progress and will 
 | User Generator | A simple fake user generator. | Website | Finished | Public | [Link](https://github.com/Berkanktk/UserGenerator) | - |
 | Procedural Map Generation | A simple demonstration of a procedurally generated map in  Unity along with a few general features. | Game Dev | Finished | Private | - | - |
 | FarmingRPG | A simple farming RPG game made in Unity. | Game Dev | Finished | Private | - | - |
+| SimpleNotebook | A notebook app that lets you write markdown, while autosaving the work in a SQLite3 database. | Website | Finished | Private | - | - |
 
 ---
 \* For now
