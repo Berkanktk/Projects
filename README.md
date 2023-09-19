@@ -4,13 +4,11 @@ This page contains a list of all my projects. It is a work in progress and will 
 > Private projects without links are showcased in my personal website.
 
 # Table of Contents
-* [Introduction](#introduction)
-* [Open-Source Projects](#open-source-projects)
 * [Personal Projects](#personal-projects)
 * [Indie Hacking Projects](#indie-hacking-projects)
 * [Plugins, Extensions, Addons and Mods](#plugins-extensions-addons-and-mods)
 * [Useful Scripts](#useful-scripts)
-* [Test Projects](#test-projects)
+* [Single-Day projects](Single-Day-projects)
 
 # Personal Projects
 | Name | Description | Type | Status | Visibility | Repository | Project Link |
@@ -18,10 +16,12 @@ This page contains a list of all my projects. It is a work in progress and will 
 | Travel Notebook | Personal travel notebook. | Website | Developing | Private | Private* |  |
 | Personal Website | My personal website | Website | Maintained | Public | Private* | [Link](https://berkankutuk.dk/) |
 
+<!--
 # Open Source Projects
 | Name | Description | Type | Status | Visibility | Repository | Project Link |
 |---|---|---|---|---|---|---|
 | BetterNotebook | Electron, Vite and React based notebook. | Application | Developing | Private* | Private* |  |
+-->
 
 # Indie Hacking Projects
 | Name | Description | Type | Status | Visibility | Repository | Project Link |
@@ -44,13 +44,14 @@ This page contains a list of all my projects. It is a work in progress and will 
 | Stock Checker | A simple stock checker made in selenium with Python. | Script | Finished | Public | [Link](https://github.com/Berkanktk/StockChecker) | - |
 | Youtube Downloader | A simple command line YouTube downloader. | Script | Maintained | Public | [Link](https://github.com/Berkanktk/YoutubeDownloader) | - |
 
-# Test Projects
+# Single-Day projects
 | Name | Description | Type | Status | Visibility | Repository | Project Link |
 |---|---|---|---|---|---|---|
 | User Generator | A simple fake user generator. | Website | Finished | Public | [Link](https://github.com/Berkanktk/UserGenerator) | - |
-| Procedural Map Generation | A simple demonstration of a procedurally generated map in  Unity along with a few general features. | Game Dev | Finished | Private | - | - |
+| Procedural Map Generation | A simple demonstration of a procedurally generated map in  Unity. | Game Dev | Finished | Private | - | - |
 | FarmingRPG | A simple farming RPG game made in Unity. | Game Dev | Finished | Private | - | - |
 | SimpleNotebook | A notebook app that lets you write markdown, while autosaving the work in a SQLite3 database. | Website | Finished | Private | - | - |
+| SimpleCountdown | A simple countdown made with Svelte and Tailwind/DaisyUI. | Website | Finished | Private | - | [Link](https://berkanktk.github.io/SimpleCountdown/) |
 
 ---
 \* For now
