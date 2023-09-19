@@ -8,7 +8,7 @@ This page contains a list of all my projects. It is a work in progress and will 
 * [Indie Hacking Projects](#indie-hacking-projects)
 * [Plugins, Extensions, Addons and Mods](#plugins-extensions-addons-and-mods)
 * [Useful Scripts](#useful-scripts)
-* [Single-Day projects](Single-Day-projects)
+* [Single-Day projects](#single-day-projects)
 
 # Personal Projects
 | Name | Description | Type | Status | Visibility | Repository | Project Link |
