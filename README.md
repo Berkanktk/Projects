@@ -52,6 +52,7 @@ This page contains a list of all my projects. It is a work in progress and will 
 | FarmingRPG | A simple farming RPG game made in Unity. | Game Dev | Finished | Private | - | - |
 | SimpleNotebook | A notebook app that lets you write markdown, while autosaving the work in a SQLite3 database. | Website | Finished | Private | - | - |
 | SimpleCountdown | A simple countdown made with Svelte and Tailwind/DaisyUI. | Website | Finished | Private | - | [Link](https://berkanktk.github.io/SimpleCountdown/) |
+| Weatherly | A minimalistic weather app made with Svelte and Tailwind/DaisyUI. | Website | Finished | Public | [Link](https://github.com/Berkanktk/Weatherly) | [Link](https://berkanktk.github.io/Weatherly/) |
 
 ---
 \* For now
