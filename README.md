@@ -50,7 +50,7 @@ This page contains a list of all my projects. It is a work in progress and will 
 | User Generator | A simple fake user generator. | Website | Finished | Public | [Link](https://github.com/Berkanktk/UserGenerator) | - |
 | Procedural Map Generation | A simple demonstration of a procedurally generated map in  Unity. | Game Dev | Finished | Private | - | - |
 | FarmingRPG | A simple farming RPG game made in Unity. | Game Dev | Finished | Private | - | - |
-| SimpleNotebook | A notebook app that lets you write markdown, while autosaving the work in a SQLite3 database. | Website | Finished | Private | - | - |
+| MarkDocX | A notebook app that lets you write markdown, while autosaving the work in a SQLite3 database. | Website | Finished | Private | - | - |
 | SimpleCountdown | A simple countdown made with Svelte and Tailwind/DaisyUI. | Website | Finished | Private | - | [Link](https://berkanktk.github.io/SimpleCountdown/) |
 | Weatherly | A minimalistic weather app made with Svelte and Tailwind/DaisyUI. | Website | Finished | Public | [Link](https://github.com/Berkanktk/Weatherly) | [Link](https://berkanktk.github.io/Weatherly/) |
 
