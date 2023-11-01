@@ -52,7 +52,7 @@ This page contains a list of all my projects. It is a work in progress and will 
 | Procedural Map Generation | A simple demonstration of a procedurally generated map in  Unity. | Game Dev | Finished | Private | - | - |
 | FarmingRPG | A simple farming RPG game made in Unity. | Game Dev | Finished | Private | - | - |
 | MarkDocX | A notebook app that lets you write markdown, while autosaving the work in a SQLite3 database. | Website | Finished | Private | - | - |
-| SimpleCountdown | A simple countdown made with Svelte and Tailwind/DaisyUI. | Website | Finished | Private | - | [Link](https://berkanktk.github.io/SimpleCountdown/) |
+| SimpleCountdown | A simple countdown made with Svelte and Tailwind/DaisyUI. | Website | Finished | Public | [Link](https://github.com/Berkanktk/SimpleCountdown) | [Link](https://berkanktk.github.io/SimpleCountdown/) |
 | Weatherly | A minimalistic weather app made with Svelte and Tailwind/DaisyUI. | Website | Finished | Public | [Link](https://github.com/Berkanktk/Weatherly) | [Link](https://berkanktk.github.io/Weatherly/) |
 | Algorithm-visualizer | Visualizing different search, sort, pathfinding & maze generation algorithms. | Website | Finished | Public | [Link](https://github.com/Berkanktk/Algorithm-visualizer) | [Link](https://berkanktk.github.io/Algorithm-visualizer/) |
 
