@@ -15,6 +15,7 @@ This page contains a list of all my projects. It is a work in progress and will 
 |---|---|---|---|---|---|---|
 | Travel Notebook | Personal travel notebook. | Website | Developing | Private | Private* |  |
 | Personal Website | My personal website | Website | Maintained | Public | Private* | [Link](https://berkankutuk.dk/) |
+| Blog | A place where I blog | Website | Maintained | Public | Private* | [Link](https://blog.berkankutuk.dk/) |
 
 <!--
 # Open Source Projects
