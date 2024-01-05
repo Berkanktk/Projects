@@ -16,6 +16,7 @@ This page contains a list of all my projects. It is a work in progress and will 
 | Travel Notebook | Personal travel notebook. | Website | Developing | Private | Private* |  |
 | Personal Website | My personal website | Website | Maintained | Public | Private* | [Link](https://berkankutuk.dk/) |
 | Blog | A place where I blog | Website | Maintained | Public | Private* | [Link](https://blog.berkankutuk.dk/) |
+| Certificates | All of my gathering certificates | Website | Maintained | Public | Private* | [Link](https://certs.berkankutuk.dk/) |
 
 <!--
 # Open Source Projects
@@ -31,6 +32,9 @@ This page contains a list of all my projects. It is a work in progress and will 
 | Scratch Map | A simple and minimalistic virtual scratch map. | Website | Maintained | Public | [Link](https://github.com/Berkanktk/scratchmap) | [Link](https://myscratchmap.net/) |
 | TravMap | A custom map made with MapBox which provides many features. | Website | Finished | Public | [Link](https://github.com/Berkanktk/travmap) | [Link](berkanktk.github.io/TravMap/) |
 | CharacterAnalyzer | A simple yet powerful character analyzer built with SvelteKit, Tailwind, and DaisyUI. | Website | Finished | Public | [Link](https://github.com/Berkanktk/CharacterAnalyzer) | [Link](https://berkanktk.github.io/CharacterAnalyzer/) |
+| SimpleCountdown | A simple countdown made with Svelte and Tailwind/DaisyUI. | Website | Finished | Public | [Link](https://github.com/Berkanktk/SimpleCountdown) | [Link](https://berkanktk.github.io/SimpleCountdown/) |
+| Weatherly | A minimalistic weather app made with Svelte and Tailwind/DaisyUI. | Website | Finished | Public | [Link](https://github.com/Berkanktk/Weatherly) | [Link](https://berkanktk.github.io/Weatherly/) |
+| Algorithm-visualizer | Visualizing different search, sort, pathfinding & maze generation algorithms. | Website | Finished | Public | [Link](https://github.com/Berkanktk/Algorithm-visualizer) | [Link](https://berkanktk.github.io/Algorithm-visualizer/) |
 
 # Plugins, Extensions, Addons and Mods
 | Name | Description | Type | Status | Visibility | Repository | Project Link |
@@ -45,6 +49,7 @@ This page contains a list of all my projects. It is a work in progress and will 
 | CTF Solver | A python toolbox to solve CTFs faster. | Toolbox | Developing | Private* |  | - |
 | Stock Checker | A simple stock checker made in selenium with Python. | Script | Finished | Public | [Link](https://github.com/Berkanktk/StockChecker) | - |
 | Youtube Downloader | A simple command line YouTube downloader. | Script | Maintained | Public | [Link](https://github.com/Berkanktk/YoutubeDownloader) | - |
+| NewsFetcher | A simple command-line interval based news fetcher | Script | Finished | Private | - | - |
 
 # Single-Day projects
 | Name | Description | Type | Status | Visibility | Repository | Project Link |
@@ -53,9 +58,6 @@ This page contains a list of all my projects. It is a work in progress and will 
 | Procedural Map Generation | A simple demonstration of a procedurally generated map in  Unity. | Game Dev | Finished | Private | - | - |
 | FarmingRPG | A simple farming RPG game made in Unity. | Game Dev | Finished | Private | - | - |
 | MarkDocX | A notebook app that lets you write markdown, while autosaving the work in a SQLite3 database. | Website | Finished | Private | - | - |
-| SimpleCountdown | A simple countdown made with Svelte and Tailwind/DaisyUI. | Website | Finished | Public | [Link](https://github.com/Berkanktk/SimpleCountdown) | [Link](https://berkanktk.github.io/SimpleCountdown/) |
-| Weatherly | A minimalistic weather app made with Svelte and Tailwind/DaisyUI. | Website | Finished | Public | [Link](https://github.com/Berkanktk/Weatherly) | [Link](https://berkanktk.github.io/Weatherly/) |
-| Algorithm-visualizer | Visualizing different search, sort, pathfinding & maze generation algorithms. | Website | Finished | Public | [Link](https://github.com/Berkanktk/Algorithm-visualizer) | [Link](https://berkanktk.github.io/Algorithm-visualizer/) |
 
 ---
 \* For now
