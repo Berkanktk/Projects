@@ -30,7 +30,7 @@ This page contains a list of all my projects. It is a work in progress and will 
 |---|---|---|---|---|---|---|
 | Sharemefy | A social media link sharing platform. | Website | Finished | Public | [Link](https://github.com/Berkanktk/Sharemefy/) | [Link](sharemefy.web.app/) |
 | Scratch Map | A simple and minimalistic virtual scratch map. | Website | Maintained | Public | [Link](https://github.com/Berkanktk/scratchmap) | [Link](https://myscratchmap.net/) |
-| TravMap | A custom map made with MapBox which provides many features. | Website | Finished | Public | [Link](https://github.com/Berkanktk/travmap) | [Link](berkanktk.github.io/TravMap/) |
+| TravMap | A custom map made with MapBox which provides many features. | Website | Finished | Public | [Link](https://github.com/Berkanktk/travmap) | [Link](https://map.berkankutuk.dk/) |
 | CharacterAnalyzer | A simple yet powerful character analyzer built with SvelteKit, Tailwind, and DaisyUI. | Website | Finished | Public | [Link](https://github.com/Berkanktk/CharacterAnalyzer) | [Link](https://berkanktk.github.io/CharacterAnalyzer/) |
 | SimpleCountdown | A simple countdown made with Svelte and Tailwind/DaisyUI. | Website | Finished | Public | [Link](https://github.com/Berkanktk/SimpleCountdown) | [Link](https://berkanktk.github.io/SimpleCountdown/) |
 | Weatherly | A minimalistic weather app made with Svelte and Tailwind/DaisyUI. | Website | Finished | Public | [Link](https://github.com/Berkanktk/Weatherly) | [Link](https://berkanktk.github.io/Weatherly/) |
