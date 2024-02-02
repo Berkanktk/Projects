@@ -28,7 +28,7 @@ This page contains a list of all my projects. It is a work in progress and will 
 # Indie Hacking Projects
 | Name | Description | Type | Status | Visibility | Repository | Project Link |
 |---|---|---|---|---|---|---|
-| Sharemefy | A social media link sharing platform. | Website | Finished | Public | [Link](https://github.com/Berkanktk/Sharemefy/) | [Link](sharemefy.web.app/) |
+| Sharemefy | A social media link sharing platform. | Website | Finished | Public | [Link](https://github.com/Berkanktk/Sharemefy/) | - |
 | Scratch Map | A simple and minimalistic virtual scratch map. | Website | Maintained | Public | [Link](https://github.com/Berkanktk/scratchmap) | [Link](https://myscratchmap.net/) |
 | TravMap | A custom map made with MapBox which provides many features. | Website | Finished | Public | [Link](https://github.com/Berkanktk/travmap) | [Link](https://map.berkankutuk.dk/) |
 | CharacterAnalyzer | A simple yet powerful character analyzer built with SvelteKit, Tailwind, and DaisyUI. | Website | Finished | Public | [Link](https://github.com/Berkanktk/CharacterAnalyzer) | [Link](https://berkanktk.github.io/CharacterAnalyzer/) |
