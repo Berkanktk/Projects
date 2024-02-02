@@ -16,7 +16,7 @@ This page contains a list of all my projects. It is a work in progress and will 
 | Travel Notebook | A Personal travel notebook made with Angular. | Website | Developing | Private |  |
 | Personal Website | My personal developer website. | Website | Maintained | Public | [Showcase](https://berkankutuk.dk/) |
 | Blog | A place where I blog about different topics. | Website | Maintained | Public | [Showcase](https://blog.berkankutuk.dk/) |
-| Certificates | All of my accomplished certificates. | Website | Maintained | Public | [Showcase](https://certs.berkankutuk.dk/) |
+| Certificates | All of my obtained certificates. | Website | Maintained | Public | [Showcase](https://certs.berkankutuk.dk/) |
 
 <!--
 # Open Source Projects
