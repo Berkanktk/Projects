@@ -11,12 +11,12 @@ This page contains a list of all my projects. It is a work in progress and will 
 * [Single-Day Projects](#single-day-projects)
 
 # Personal Projects
-| Name | Description | Type | Status | Visibility | Project Links |
-|---|---|---|---|---|---|
-| Travel Notebook | A Personal travel notebook made with Angular. | Website | Developing | Private |  |
-| Personal Website | My personal developer website. | Website | Maintained | Public | [Showcase](https://berkankutuk.dk/) |
-| Blog | A place where I blog about different topics. | Website | Maintained | Public | [Showcase](https://blog.berkankutuk.dk/) |
-| Certificates | All of my obtained certificates. | Website | Maintained | Public | [Showcase](https://certs.berkankutuk.dk/) |
+| Name | Description | Type | Status | Project Links |
+|---|---|---|---|---|
+| Travel Notebook | A Personal travel notebook made with Angular. | Website | Developing  |  |
+| Personal Website | My personal developer website. | Website | Maintained | [Showcase](https://berkankutuk.dk/) |
+| Blog | A place where I blog about different topics. | Website | Maintained | [Showcase](https://blog.berkankutuk.dk/) |
+| Certificates | All of my obtained certificates. | Website | Maintained | [Showcase](https://certs.berkankutuk.dk/) |
 
 <!--
 # Open Source Projects
