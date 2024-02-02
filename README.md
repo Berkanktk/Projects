@@ -39,8 +39,8 @@ This page contains a list of all my projects. It is a work in progress and will 
 # Plugins, Extensions, Addons and Mods
 | Name | Description | Type | Status | Visibility | Repository | Project Link |
 |---|---|---|---|---|---|---|
-| HTBAcademyHider | An extenstion that hides finished modules on the HackTheBox Academy platform. | Plugin | Finished | Public | [Link](https://github.com/Berkanktk/HTBAcademyHider) | [Link](https://chrome.google.com/webstore/detail/htbacademyhider/ekcmengdoepjkfpjngbgfpmgdejlechc) |
-| YTPlaylistDurationSorter | A Chrome extension for sorting YouTube playlists by video length. | Plugin | Archived | Private | - | - |
+| HTBAcademyHider | An extenstion that hides finished modules on the HackTheBox Academy platform. | Extension | Finished | Public | [Link](https://github.com/Berkanktk/HTBAcademyHider) | [Link](https://chrome.google.com/webstore/detail/htbacademyhider/ekcmengdoepjkfpjngbgfpmgdejlechc) |
+| YTPlaylistDurationSorter | A Chrome extension for sorting YouTube playlists by video length. | Extension | Archived | Private | - | - |
 
 # Useful Scripts
 | Name | Description | Type | Status | Visibility | Repository | Project Link |
