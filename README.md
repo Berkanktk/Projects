@@ -6,17 +6,17 @@ This page contains a list of all my projects. It is a work in progress and will 
 # Table of Contents
 * [Personal Projects](#personal-projects)
 * [Indie Hacking Projects](#indie-hacking-projects)
-* [Plugins, Extensions, Addons and Mods](#plugins-extensions-addons-and-mods)
+* [Plugins, Extensions, Addons & Mods](#plugins-extensions-addons--mods)
 * [Useful Scripts](#useful-scripts)
-* [Single-Day projects](#single-day-projects)
+* [Single-Day Projects](#single-day-projects)
 
 # Personal Projects
-| Name | Description | Type | Status | Visibility | Repository | Project Link |
-|---|---|---|---|---|---|---|
-| Travel Notebook | Personal travel notebook. | Website | Developing | Private | Private* |  |
-| Personal Website | My personal website | Website | Maintained | Public | Private* | [Link](https://berkankutuk.dk/) |
-| Blog | A place where I blog | Website | Maintained | Public | Private* | [Link](https://blog.berkankutuk.dk/) |
-| Certificates | All of my gathering certificates | Website | Maintained | Public | Private* | [Link](https://certs.berkankutuk.dk/) |
+| Name | Description | Type | Status | Visibility | Project Links |
+|---|---|---|---|---|---|
+| Travel Notebook | A Personal travel notebook made with Angular. | Website | Developing | Private |  |
+| Personal Website | My personal developer website. | Website | Maintained | Public | [Showcase](https://berkankutuk.dk/) |
+| Blog | A place where I blog about different topics. | Website | Maintained | Public | [Showcase](https://blog.berkankutuk.dk/) |
+| Certificates | All of my accomplished certificates. | Website | Maintained | Public | [Showcase](https://certs.berkankutuk.dk/) |
 
 <!--
 # Open Source Projects
@@ -26,38 +26,38 @@ This page contains a list of all my projects. It is a work in progress and will 
 -->
 
 # Indie Hacking Projects
-| Name | Description | Type | Status | Visibility | Repository | Project Link |
-|---|---|---|---|---|---|---|
-| Sharemefy | A social media link sharing platform. | Website | Finished | Public | [Link](https://github.com/Berkanktk/Sharemefy/) | - |
-| Scratch Map | A simple and minimalistic virtual scratch map. | Website | Maintained | Public | [Link](https://github.com/Berkanktk/scratchmap) | [Link](https://myscratchmap.net/) |
-| TravMap | A custom map made with MapBox which provides many features. | Website | Finished | Public | [Link](https://github.com/Berkanktk/travmap) | [Link](https://map.berkankutuk.dk/) |
-| CharacterAnalyzer | A simple yet powerful character analyzer built with SvelteKit, Tailwind, and DaisyUI. | Website | Finished | Public | [Link](https://github.com/Berkanktk/CharacterAnalyzer) | [Link](https://berkanktk.github.io/CharacterAnalyzer/) |
-| SimpleCountdown | A simple countdown made with Svelte and Tailwind/DaisyUI. | Website | Finished | Public | [Link](https://github.com/Berkanktk/SimpleCountdown) | [Link](https://berkanktk.github.io/SimpleCountdown/) |
-| Weatherly | A minimalistic weather app made with Svelte and Tailwind/DaisyUI. | Website | Finished | Public | [Link](https://github.com/Berkanktk/Weatherly) | [Link](https://berkanktk.github.io/Weatherly/) |
-| Algorithm-visualizer | Visualizing different search, sort, pathfinding & maze generation algorithms. | Website | Finished | Public | [Link](https://github.com/Berkanktk/Algorithm-visualizer) | [Link](https://berkanktk.github.io/Algorithm-visualizer/) |
+| Name | Description | Type | Status | Project Links |
+|---|---|---|---|---|
+| Sharemefy | A social media link sharing platform. | Website | Finished | [Repository](https://github.com/Berkanktk/Sharemefy/) |
+| MyScratchMap | A simple and minimalistic virtual scratch map. | Website | Maintained | [Repository](https://github.com/Berkanktk/scratchmap)  [Showcase](https://myscratchmap.net/) |
+| TravMap | A custom map made with MapBox which provides many features. | Website | Finished | [Repository](https://github.com/Berkanktk/travmap) [Showcase](https://map.berkankutuk.dk/) |
+| CharacterAnalyzer | A simple yet powerful character analyzer built with SvelteKit, Tailwind, and DaisyUI. | Website | Finished | [Repository](https://github.com/Berkanktk/CharacterAnalyzer) [Showcase](https://berkanktk.github.io/CharacterAnalyzer/) |
+| SimpleCountdown | A simple countdown made with Svelte and Tailwind/DaisyUI. | Website | Finished | [Repository](https://github.com/Berkanktk/SimpleCountdown) [Showcase](https://berkanktk.github.io/SimpleCountdown/) |
+| Weatherly | A minimalistic weather app made with Svelte and Tailwind/DaisyUI. | Website | Finished | [Repository](https://github.com/Berkanktk/Weatherly) [Showcase](https://berkanktk.github.io/Weatherly/) |
+| AlgorithmVisualizer | Visualizing different search, sort, pathfinding & maze generation algorithms. | Website | Finished | [Repository](https://github.com/Berkanktk/Algorithm-visualizer) [Showcase](https://berkanktk.github.io/Algorithm-visualizer/) |
 
-# Plugins, Extensions, Addons and Mods
-| Name | Description | Type | Status | Visibility | Repository | Project Link |
-|---|---|---|---|---|---|---|
-| HTBAcademyHider | An extenstion that hides finished modules on the HackTheBox Academy platform. | Extension | Finished | Public | [Link](https://github.com/Berkanktk/HTBAcademyHider) | [Link](https://chrome.google.com/webstore/detail/htbacademyhider/ekcmengdoepjkfpjngbgfpmgdejlechc) |
-| YTPlaylistDurationSorter | A Chrome extension for sorting YouTube playlists by video length. | Extension | Archived | Private | - | - |
+# Plugins, Extensions, Addons & Mods
+| Name | Description | Type | Status | Project Links |
+|---|---|---|---|---|
+| HTBAcademyHider | An extenstion that hides finished modules on the HackTheBox Academy platform. | Extension | Finished | [Repository](https://github.com/Berkanktk/HTBAcademyHider) [Showcase](https://chrome.google.com/webstore/detail/htbacademyhider/ekcmengdoepjkfpjngbgfpmgdejlechc) |
+| YTPlaylistDurationSorter | A Chrome extension for sorting YouTube playlists by video length. | Extension | Archived | - |
 
 # Useful Scripts
-| Name | Description | Type | Status | Visibility | Repository | Project Link |
-|---|---|---|---|---|---|---|
-| BeReal Fetcher | Reverse Engineering of BeReal to scrape data without posting anything. | Script | Finished | Public | [Link](https://github.com/Berkanktk/BeReal-Fetcher) | - |
-| CTF Solver | A python toolbox to solve CTFs faster. | Toolbox | Developing | Private* |  | - |
-| Stock Checker | A simple stock checker made in selenium with Python. | Script | Finished | Public | [Link](https://github.com/Berkanktk/StockChecker) | - |
-| Youtube Downloader | A simple command line YouTube downloader. | Script | Maintained | Public | [Link](https://github.com/Berkanktk/YoutubeDownloader) | - |
-| NewsFetcher | A simple command-line interval based news fetcher | Script | Finished | Private | - | - |
+| Name | Description | Type | Status | Project Links |
+|---|---|---|---|---|
+| BeReal Fetcher | Reverse Engineering of BeReal to scrape data without posting anything. | Script | Finished | [Repository](https://github.com/Berkanktk/BeReal-Fetcher)  |
+| CTF Solver | A python toolbox to solve CTFs faster. | Toolbox | Developing | - |
+| Stock Checker | A simple stock checker made in selenium with Python. | Script | Finished  | [Repository](https://github.com/Berkanktk/StockChecker) |
+| Youtube Downloader | A simple command line YouTube downloader. | Script | Maintained | [Repository](https://github.com/Berkanktk/YoutubeDownloader)  |
+| NewsFetcher | A simple command-line interval based news fetcher | Script | Finished  | - |
 
-# Single-Day projects
-| Name | Description | Type | Status | Visibility | Repository | Project Link |
-|---|---|---|---|---|---|---|
-| User Generator | A simple fake user generator. | Website | Finished | Public | [Link](https://github.com/Berkanktk/UserGenerator) | - |
-| Procedural Map Generation | A simple demonstration of a procedurally generated map in  Unity. | Game Dev | Finished | Private | - | - |
-| FarmingRPG | A simple farming RPG game made in Unity. | Game Dev | Finished | Private | - | - |
-| MarkDocX | A notebook app that lets you write markdown, while autosaving the work in a SQLite3 database. | Website | Finished | Private | - | - |
+# Single-Day Projects
+| Name | Description | Type | Status | Project Links |
+|---|---|---|---|---|
+| User Generator | A simple fake user generator. | Website | Finished | [Repository](https://github.com/Berkanktk/UserGenerator) | - |
+| Procedural Map Generation | A simple demonstration of a procedurally generated map in  Unity. | Game Dev | Finished | - |
+| FarmingRPG | A simple farming RPG game made in Unity. | Game Dev | Finished | - |
+| MarkDocX | A notebook app that lets you write markdown, while autosaving the work in a SQLite3 database. | Website | Finished | - |
 
 ---
 \* For now
