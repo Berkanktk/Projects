@@ -41,6 +41,7 @@ This page contains a list of all my projects. It is a work in progress and will 
 |---|---|---|---|---|
 | HTBAcademyHider | An extenstion that hides finished modules on the HackTheBox Academy platform. | Extension | Finished | [Repository](https://github.com/Berkanktk/HTBAcademyHider) [Showcase](https://chrome.google.com/webstore/detail/htbacademyhider/ekcmengdoepjkfpjngbgfpmgdejlechc) |
 | YTPlaylistDurationSorter | A Chrome extension for sorting YouTube playlists by video length. | Extension | Archived | - |
+| RealisticDreams | A Minecraft plugin that adds dreams and buffs based on the player's sleep. | Plugin | Developing | [Repository](https://github.com/Berkanktk/RealisticDreams) [Showcase](https://www.spigotmc.org/resources/realisticdreams.114992/) |
 
 # Useful Scripts
 | Name | Description | Type | Status | Project Links |
