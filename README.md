@@ -49,8 +49,9 @@ This page contains a list of all my projects. It is a work in progress and will 
 | BeReal Fetcher | Reverse Engineering of BeReal to scrape data without posting anything. | Script | Finished | [Repository](https://github.com/Berkanktk/BeReal-Fetcher)  |
 | CTF Solver | A python toolbox to solve CTFs faster. | Toolbox | Developing | - |
 | Stock Checker | A simple stock checker made in selenium with Python. | Script | Finished  | [Repository](https://github.com/Berkanktk/StockChecker) |
-| Youtube Downloader | A simple command line YouTube downloader. | Script | Maintained | [Repository](https://github.com/Berkanktk/YoutubeDownloader)  |
+| YTDownloader | A simple command line YouTube downloader. | Script | Maintained | [Repository](https://github.com/Berkanktk/YoutubeDownloader)  |
 | NewsFetcher | A simple command-line interval based news fetcher | Script | Finished  | - |
+| IGDownloader | A simple command line Instagram image/video downloader. | Script | Maintained | - |
 
 # Single-Day Projects
 | Name | Description | Type | Status | Project Links |
