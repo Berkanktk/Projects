@@ -6,6 +6,7 @@ This page contains a list of all my projects. It is a work in progress and will 
 # Table of Contents
 * [Personal Projects](#personal-projects)
 * [Indie Hacking Projects](#indie-hacking-projects)
+* [Desktop & Mobile Applications](#desktop--mobile-applications)
 * [Plugins, Extensions, Addons & Mods](#plugins-extensions-addons--mods)
 * [Useful Scripts](#useful-scripts)
 * [Single-Day Projects](#single-day-projects)
@@ -18,13 +19,6 @@ This page contains a list of all my projects. It is a work in progress and will 
 | Blog | A place where I blog about different topics. | Website | Maintained | [Showcase](https://blog.berkankutuk.dk/) |
 | Certificates | All of my obtained certificates. | Website | Maintained | [Showcase](https://certs.berkankutuk.dk/) |
 
-<!--
-# Open Source Projects
-| Name | Description | Type | Status | Visibility | Repository | Project Link |
-|---|---|---|---|---|---|---|
-| BetterNotebook | Electron, Vite and React based notebook. | Application | Developing | Private* | Private* |  |
--->
-
 # Indie Hacking Projects
 | Name | Description | Type | Status | Project Links |
 |---|---|---|---|---|
@@ -36,12 +30,17 @@ This page contains a list of all my projects. It is a work in progress and will 
 | Weatherly | A minimalistic weather app made with Svelte and Tailwind/DaisyUI. | Website | Finished | [Repository](https://github.com/Berkanktk/Weatherly) [Showcase](https://berkanktk.github.io/Weatherly/) |
 | AlgorithmVisualizer | Visualizing different search, sort, pathfinding & maze generation algorithms. | Website | Finished | [Repository](https://github.com/Berkanktk/Algorithm-visualizer) [Showcase](https://berkanktk.github.io/Algorithm-visualizer/) |
 
+# Desktop & Mobile Applications
+| Name | Description | Platform | Status | Project Links |
+|---|---|---|---|---|
+| BetterNotebook | A simple and minimalistic windows notebook alternative made with Electron, Vite, and Svelte. | Desktop | Maintained | [Repository](https://github.com/Berkanktk/BetterNotebook) |
+
 # Plugins, Extensions, Addons & Mods
 | Name | Description | Type | Status | Project Links |
 |---|---|---|---|---|
 | HTBAcademyHider | An extenstion that hides finished modules on the HackTheBox Academy platform. | Extension | Finished | [Repository](https://github.com/Berkanktk/HTBAcademyHider) [Showcase](https://chrome.google.com/webstore/detail/htbacademyhider/ekcmengdoepjkfpjngbgfpmgdejlechc) |
 | YTPlaylistDurationSorter | A Chrome extension for sorting YouTube playlists by video length. | Extension | Archived | - |
-| RealisticDreams | A Minecraft plugin that adds dreams and buffs based on the player's sleep. | Plugin | Developing | [Repository](https://github.com/Berkanktk/RealisticDreams) [Showcase](https://www.spigotmc.org/resources/realisticdreams.114992/) |
+| RealisticDreams | A Minecraft plugin that adds dreams and buffs based on the player's sleep. | Plugin | Finished | [Repository](https://github.com/Berkanktk/RealisticDreams) [Showcase](https://www.spigotmc.org/resources/realisticdreams.114992/) |
 
 # Useful Scripts
 | Name | Description | Type | Status | Project Links |
@@ -50,16 +49,16 @@ This page contains a list of all my projects. It is a work in progress and will 
 | CTF Solver | A python toolbox to solve CTFs faster. | Toolbox | Developing | - |
 | Stock Checker | A simple stock checker made in selenium with Python. | Script | Finished  | [Repository](https://github.com/Berkanktk/StockChecker) |
 | YTDownloader | A simple command line YouTube downloader. | Script | Maintained | [Repository](https://github.com/Berkanktk/YoutubeDownloader)  |
-| NewsFetcher | A simple command-line interval based news fetcher | Script | Finished  | - |
+| NewsFetcher | A simple command-line interval based news fetcher. | Script | Finished  | - |
 | IGDownloader | A simple command line Instagram image/video downloader. | Script | Maintained | - |
 
 # Single-Day Projects
 | Name | Description | Type | Status | Project Links |
 |---|---|---|---|---|
-| User Generator | A simple fake user generator. | Website | Finished | [Repository](https://github.com/Berkanktk/UserGenerator) | - |
-| Procedural Map Generation | A simple demonstration of a procedurally generated map in  Unity. | Game Dev | Finished | - |
+| User Generator | A simple fake user generator. | Website | Finished | [Repository](https://github.com/Berkanktk/UserGenerator) [Showcase](https://berkanktk.github.io/UserGenerator/) |
+| Procedural Map Generation | A simple demonstration of a procedurally generated map in  Unity. | Game Dev | Finished | [Repository](https://github.com/Berkanktk/ProceduralMapGeneration-Unity) |
 | FarmingRPG | A simple farming RPG game made in Unity. | Game Dev | Finished | - |
-| MarkDocX | A notebook app that lets you write markdown, while autosaving the work in a SQLite3 database. | Website | Finished | - |
+| MarkDocX | A notebook app that lets you write markdown, while autosaving the work in a SQLite3 database. | Website | Finished | [Repository](https://github.com/Berkanktk/MarkDocX) |
 
 ---
 \* For now
