@@ -10,6 +10,7 @@ This page contains a list of all my projects. It is a work in progress and will 
 * [Plugins, Extensions, Addons & Mods](#plugins-extensions-addons--mods)
 * [Useful Scripts](#useful-scripts)
 * [Single-Day Projects](#single-day-projects)
+* [Capture The Flags (CTFs)](#capture-the-flags-ctfs)
 
 # Personal Projects
 | Name | Description | Type | Status | Project Links |
@@ -18,6 +19,7 @@ This page contains a list of all my projects. It is a work in progress and will 
 | Personal Website | My personal developer website. | Website | Maintained | [Showcase](https://berkankutuk.dk/) |
 | Blog | A place where I blog about different topics. | Website | Maintained | [Showcase](https://blog.berkankutuk.dk/) |
 | Certificates | All of my obtained certificates. | Website | Maintained | [Showcase](https://certs.berkankutuk.dk/) |
+| Fonts | A collection of my favorite fonts. | Website | Finished | [Showcase](https://fonts.berkankutuk.dk/) |
 
 # Indie Hacking Projects
 | Name | Description | Type | Status | Project Links |
@@ -60,7 +62,13 @@ This page contains a list of all my projects. It is a work in progress and will 
 | Procedural Map Generation | A simple demonstration of a procedurally generated map in  Unity. | Game Dev | Finished | [Repository](https://github.com/Berkanktk/ProceduralMapGeneration-Unity) |
 | FarmingRPG | A simple farming RPG game made in Unity. | Game Dev | Finished | - |
 | MarkDocX | A notebook app that lets you write markdown, while autosaving the work in a SQLite3 database. | Website | Finished | [Repository](https://github.com/Berkanktk/MarkDocX) |
-| Troll-site | A cursed site i made during a boring night. | Website | Finished | [Showcase](https://troll.berkankutuk.dk/) |
+| Troll-site | A troll site I made during a boring night. | Website | Finished | [Showcase](https://troll.berkankutuk.dk/) |
+| Debugger | A simple web debugger. | Website | Finished | [Showcase](https://debug.berkankutuk.dk/) |
+
+# Capture The Flags (CTFs)
+| Name | Description | Type | Status | Project Links |
+|---|---|---|---|---|
+| CTF | A Personal CTF challenge covering OSINT, Steganography, Linux CLI, Password cracking, privilege escalation and more. | Multi-tiered | Finished | [Showcase](https://ctf.berkankutuk.dk/) |
 
 ---
 \* For now
