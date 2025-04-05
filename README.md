@@ -32,6 +32,7 @@ This page contains a list of all my projects. It is a work in progress and will 
 | Weatherly | A minimalistic weather app made with Svelte and Tailwind/DaisyUI. | Website | Finished | [Repository](https://github.com/Berkanktk/Weatherly) [Showcase](https://berkanktk.github.io/Weatherly/) |
 | AlgorithmVisualizer | Visualizing different search, sort, pathfinding & maze generation algorithms. | Website | Finished | [Repository](https://github.com/Berkanktk/Algorithm-visualizer) [Showcase](https://berkanktk.github.io/Algorithm-visualizer/) |
 | Bodycalc | A simple BMI, BMR & BFP calculator. | Website | Finished | [Showcase](https://bodycalc.berkankutuk.dk/) |
+| RepoExplorer | GitHub Repository Explorer. | Website | Finished | [Showcase](https://gh.berkankutuk.dk/) |
 
 # Desktop & Mobile Applications
 | Name | Description | Platform | Status | Project Links |
