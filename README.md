@@ -19,7 +19,7 @@ This page contains a list of all my projects. It is a work in progress and will 
 | Blog | A place where I blog about different topics. | Website | Maintained | [Showcase](https://blog.berkankutuk.dk/) |
 | Certificates | All of my obtained certificates. | Website | Maintained | [Showcase](https://certs.berkankutuk.dk/) |
 | Fonts | A collection of my favorite fonts. | Website | Finished | [Showcase](https://fonts.berkankutuk.dk/) |
-| Travel Notebook | A Personal travel notebook made with Angular. | Website | Developing  |  |
+| Travel Notebook | A Personal travel notebook made with Svelte. | Website | Developing  |  |
 
 # Indie Hacking Projects
 | Name | Description | Type | Status | Project Links |
@@ -33,6 +33,8 @@ This page contains a list of all my projects. It is a work in progress and will 
 | SimpleCountdown | A simple countdown made with Svelte and Tailwind/DaisyUI. | Website | Finished | [Repository](https://github.com/Berkanktk/SimpleCountdown) [Showcase](https://berkanktk.github.io/SimpleCountdown/) |
 | Weatherly | A minimalistic weather app made with Svelte and Tailwind/DaisyUI. | Website | Finished | [Repository](https://github.com/Berkanktk/Weatherly) [Showcase](https://berkanktk.github.io/Weatherly/) |
 | Bodycalc | A simple BMI, BMR & BFP calculator. | Website | Finished | [Showcase](https://bodycalc.berkankutuk.dk/) |
+| RepoExplorer | A feature-rich GitHub Repository Explorer with advanced filtering and sorting of repositories. | Website | Finished | [Repository](https://github.com/Berkanktk/RepoExplorer) [Showcase](https://gh.berkankutuk.dk/) |
+| SecretMarkdocs | A simple yet powerful Markdown-based note app, designed to make sharing your notes simple, fast and secure. | Website | Finished | [Repository](https://github.com/Berkanktk/SecretMarkdocs) [Showcase](https://vault.berkankutuk.dk/demo) |
 
 # Desktop & Mobile Applications
 | Name | Description | Platform | Status | Project Links |
