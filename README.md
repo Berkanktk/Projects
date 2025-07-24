@@ -46,6 +46,7 @@ This page contains a list of all my projects. It is a work in progress and will 
 | FarmingRPG | A simple farming RPG game made in Unity. | Game Dev | Finished | - |
 | Troll-site | A troll site made during a boring night. | Website | Finished | [Showcase](https://troll.berkankutuk.dk/) |
 | HowLongToBeatAPI | An api to get game completion information from HLTB. | Website | Finished | [Repository](https://github.com/Berkanktk/HowLongToBeatAPI) [Showcase](https://hltb.berkankutuk.dk/) |
+| CurrencyConverter | Simple single/multi-view real-time currency converter with daily exchange rates | Website | Finished | [Showcase](https://currency.berkankutuk.d) |
 
 # Desktop & Mobile Applications
 | Name | Description | Platform | Status | Project Links |
