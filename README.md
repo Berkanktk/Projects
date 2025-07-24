@@ -67,6 +67,7 @@ This page contains a list of all my projects. It is a work in progress and will 
 | Procedural Map Generation | A simple demonstration of a procedurally generated map in  Unity. | Game Dev | Finished | [Repository](https://github.com/Berkanktk/ProceduralMapGeneration-Unity) |
 | FarmingRPG | A simple farming RPG game made in Unity. | Game Dev | Finished | - |
 | Troll-site | A troll site made during a boring night. | Website | Finished | [Showcase](https://troll.berkankutuk.dk/) |
+| HowLongToBeatAPI | An api to get game completion information from HLTB. | Website | Finished | [Repository](https://github.com/Berkanktk/HowLongToBeatAPI) [Showcase](https://hltb.berkankutuk.dk/) |
 
 # Capture The Flags (CTFs)
 | Name | Description | Type | Status | Project Links |
