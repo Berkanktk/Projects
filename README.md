@@ -6,10 +6,10 @@ This page contains a list of all my projects. It is a work in progress and will 
 # Table of Contents
 * [Personal Projects](#personal-projects)
 * [Indie Hacking Projects](#indie-hacking-projects)
+* [Single-Day Projects](#single-day-projects)
 * [Desktop & Mobile Applications](#desktop--mobile-applications)
 * [Plugins, Extensions, Addons & Mods](#plugins-extensions-addons--mods)
 * [Useful Scripts](#useful-scripts)
-* [Single-Day Projects](#single-day-projects)
 * [Capture The Flags (CTFs)](#capture-the-flags-ctfs)
 
 # Personal Projects
@@ -41,6 +41,17 @@ This page contains a list of all my projects. It is a work in progress and will 
 |---|---|---|---|---|
 | BetterNotebook | A simple and minimalistic windows notebook alternative made with Electron, Vite, and Svelte. | Desktop | Maintained | [Repository](https://github.com/Berkanktk/BetterNotebook) |
 
+# Single-Day Projects
+| Name | Description | Type | Status | Project Links |
+|---|---|---|---|---|
+| Debugger | A simple web debugger. | Website | Finished | [Showcase](https://debug.berkankutuk.dk/) |
+| MarkDocX | A notebook app that lets you write markdown, while autosaving the work in a SQLite3 database. | Website | Finished | [Repository](https://github.com/Berkanktk/MarkDocX) |
+| User Generator | A simple fake user generator. | Website | Finished | [Repository](https://github.com/Berkanktk/UserGenerator) [Showcase](https://berkanktk.github.io/UserGenerator/) |
+| Procedural Map Generation | A simple demonstration of a procedurally generated map in  Unity. | Game Dev | Finished | [Repository](https://github.com/Berkanktk/ProceduralMapGeneration-Unity) |
+| FarmingRPG | A simple farming RPG game made in Unity. | Game Dev | Finished | - |
+| Troll-site | A troll site made during a boring night. | Website | Finished | [Showcase](https://troll.berkankutuk.dk/) |
+| HowLongToBeatAPI | An api to get game completion information from HLTB. | Website | Finished | [Repository](https://github.com/Berkanktk/HowLongToBeatAPI) [Showcase](https://hltb.berkankutuk.dk/) |
+
 # Plugins, Extensions, Addons & Mods
 | Name | Description | Type | Status | Project Links |
 |---|---|---|---|---|
@@ -57,17 +68,6 @@ This page contains a list of all my projects. It is a work in progress and will 
 | YTDownloader | A simple command line YouTube downloader. | Script | Finished | [Repository](https://github.com/Berkanktk/YoutubeDownloader)  |
 | NewsFetcher | Interval based news fetcher. | Script | Finished  | - |
 | IGDownloader | A simple command line Instagram image/video downloader. | Script | Finished | - |
-
-# Single-Day Projects
-| Name | Description | Type | Status | Project Links |
-|---|---|---|---|---|
-| Debugger | A simple web debugger. | Website | Finished | [Showcase](https://debug.berkankutuk.dk/) |
-| MarkDocX | A notebook app that lets you write markdown, while autosaving the work in a SQLite3 database. | Website | Finished | [Repository](https://github.com/Berkanktk/MarkDocX) |
-| User Generator | A simple fake user generator. | Website | Finished | [Repository](https://github.com/Berkanktk/UserGenerator) [Showcase](https://berkanktk.github.io/UserGenerator/) |
-| Procedural Map Generation | A simple demonstration of a procedurally generated map in  Unity. | Game Dev | Finished | [Repository](https://github.com/Berkanktk/ProceduralMapGeneration-Unity) |
-| FarmingRPG | A simple farming RPG game made in Unity. | Game Dev | Finished | - |
-| Troll-site | A troll site made during a boring night. | Website | Finished | [Showcase](https://troll.berkankutuk.dk/) |
-| HowLongToBeatAPI | An api to get game completion information from HLTB. | Website | Finished | [Repository](https://github.com/Berkanktk/HowLongToBeatAPI) [Showcase](https://hltb.berkankutuk.dk/) |
 
 # Capture The Flags (CTFs)
 | Name | Description | Type | Status | Project Links |
