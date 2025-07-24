@@ -36,11 +36,6 @@ This page contains a list of all my projects. It is a work in progress and will 
 | RepoExplorer | A feature-rich GitHub Repository Explorer with advanced filtering and sorting of repositories. | Website | Finished | [Repository](https://github.com/Berkanktk/RepoExplorer) [Showcase](https://gh.berkankutuk.dk/) |
 | SecretMarkdocs | A simple yet powerful Markdown-based note app, designed to make sharing your notes simple, fast and secure. | Website | Finished | [Repository](https://github.com/Berkanktk/SecretMarkdocs) [Showcase](https://vault.berkankutuk.dk/demo) |
 
-# Desktop & Mobile Applications
-| Name | Description | Platform | Status | Project Links |
-|---|---|---|---|---|
-| BetterNotebook | A simple and minimalistic windows notebook alternative made with Electron, Vite, and Svelte. | Desktop | Maintained | [Repository](https://github.com/Berkanktk/BetterNotebook) |
-
 # Single-Day Projects
 | Name | Description | Type | Status | Project Links |
 |---|---|---|---|---|
@@ -51,6 +46,11 @@ This page contains a list of all my projects. It is a work in progress and will 
 | FarmingRPG | A simple farming RPG game made in Unity. | Game Dev | Finished | - |
 | Troll-site | A troll site made during a boring night. | Website | Finished | [Showcase](https://troll.berkankutuk.dk/) |
 | HowLongToBeatAPI | An api to get game completion information from HLTB. | Website | Finished | [Repository](https://github.com/Berkanktk/HowLongToBeatAPI) [Showcase](https://hltb.berkankutuk.dk/) |
+
+# Desktop & Mobile Applications
+| Name | Description | Platform | Status | Project Links |
+|---|---|---|---|---|
+| BetterNotebook | A simple and minimalistic windows notebook alternative made with Electron, Vite, and Svelte. | Desktop | Maintained | [Repository](https://github.com/Berkanktk/BetterNotebook) |
 
 # Plugins, Extensions, Addons & Mods
 | Name | Description | Type | Status | Project Links |
