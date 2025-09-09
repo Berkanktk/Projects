@@ -52,7 +52,7 @@ This page contains a list of all my projects. It is a work in progress and will 
 # Desktop & Mobile Applications
 | Name | Description | Platform | Status | Project Links |
 |---|---|---|---|---|
-| BetterNotebook | A simple and minimalistic windows notebook alternative made with Electron, Vite, and Svelte. | Desktop | Maintained | [Repository](https://github.com/Berkanktk/BetterNotebook) |
+| BetterNotebook | A simple and minimalistic windows notebook alternative made with Electron, Vite, and Svelte. | Desktop | Finished | [Repository](https://github.com/Berkanktk/BetterNotebook) |
 
 # Plugins, Extensions, Addons & Mods
 | Name | Description | Type | Status | Project Links |
@@ -80,5 +80,6 @@ This page contains a list of all my projects. It is a work in progress and will 
 \* For now
 
 Find many more projects/courses i've taken in the University [here](https://github.com/Berkanktk/Student).
+
 
 
