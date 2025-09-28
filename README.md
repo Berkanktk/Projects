@@ -20,6 +20,8 @@ This page contains a list of all my projects. It is a work in progress and will 
 | Certificates | All of my obtained certificates. | Website | Maintained | [Showcase](https://certs.berkankutuk.dk/) |
 | Fonts | A collection of my favorite fonts. | Website | Finished | [Showcase](https://fonts.berkankutuk.dk/) |
 | Travel Notebook | A Personal travel notebook made with Svelte. | Website | Developing  |  |
+| Tech Recaps |Recaps and learning objectives for different areas of IT. | Collection | Maintained | [Showcase](https://github.com/Berkanktk/TechRecaps) |
+
 
 # Indie Hacking Projects
 | Name | Description | Type | Status | Project Links |
@@ -80,6 +82,7 @@ This page contains a list of all my projects. It is a work in progress and will 
 \* For now
 
 Find many more projects/courses i've taken in the University [here](https://github.com/Berkanktk/Student).
+
 
 
 
