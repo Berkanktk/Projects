@@ -46,7 +46,7 @@ This page contains a list of all my projects. It is a work in progress and will 
 | User Generator | A simple fake user generator. | Website | Finished | [Repository](https://github.com/Berkanktk/UserGenerator) [Showcase](https://berkanktk.github.io/UserGenerator/) |
 | Procedural Map Generation | A simple demonstration of a procedurally generated map in  Unity. | Game Dev | Finished | [Repository](https://github.com/Berkanktk/ProceduralMapGeneration-Unity) |
 | FarmingRPG | A simple farming RPG game made in Unity. | Game Dev | Finished | - |
-| Troll-site | A troll site made during a boring night. | Website | Finished | [Showcase](https://troll.berkankutuk.dk/) |
+| Troll-site | A troll site made during a boring night. | Website | Finished | - |
 | HowLongToBeatAPI | An api to get game completion information from HLTB. | Website | Finished | [Repository](https://github.com/Berkanktk/HowLongToBeatAPI) [Showcase](https://hltb.berkankutuk.dk/) |
 | CurrencyConverter | Simple single/multi-view real-time currency converter with daily exchange rates | Website | Finished | [Showcase](https://currency.berkankutuk.dk) |
 | Website-analyzer | Analyze and see screen dumps of websites without ever visiting them. | Website | Finished | [Showcase](https://check.berkankutuk.dk) |
