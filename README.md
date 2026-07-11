@@ -32,7 +32,7 @@ This page contains a list of all my projects. It is a work in progress and will 
 | AlgorithmVisualizer | Visualizing different search, sort, pathfinding & maze generation algorithms. | Website | Finished | [Repository](https://github.com/Berkanktk/Algorithm-visualizer) [Showcase](https://berkanktk.github.io/Algorithm-visualizer/) |
 | Sharemefy | A social media link-sharing platform. | Website | Finished | [Repository](https://github.com/Berkanktk/Sharemefy/) |
 | Map | A custom map made with MapBox which provides many features. | Website | Finished | [Repository](https://github.com/Berkanktk/map) [Showcase](https://map.berkankutuk.dk/) |
-| SimpleCountdown | A simple countdown made with Svelte and Tailwind/DaisyUI. | Website | Finished | [Repository](https://github.com/Berkanktk/SimpleCountdown) [Showcase](https://berkanktk.github.io/SimpleCountdown/) |
+| SimpleCountdown | A simple countdown made with Svelte and Tailwind/DaisyUI. | Website | Finished | [Showcase](https://berkanktk.github.io/SimpleCountdown/) |
 | Weatherly | A minimalistic weather app made with Svelte and Tailwind/DaisyUI. | Website | Finished | [Repository](https://github.com/Berkanktk/Weatherly) [Showcase](https://berkanktk.github.io/Weatherly/) |
 | Bodycalc | A simple BMI, BMR & BFP calculator. | Website | Finished | [Showcase](https://bodycalc.berkankutuk.dk/) |
 | RepoExplorer | A feature-rich GitHub Repository Explorer with advanced filtering and sorting of repositories. | Website | Finished | [Repository](https://github.com/Berkanktk/RepoExplorer) [Showcase](https://gh.berkankutuk.dk/) |
@@ -46,7 +46,6 @@ This page contains a list of all my projects. It is a work in progress and will 
 | User Generator | A simple fake user generator. | Website | Finished | [Repository](https://github.com/Berkanktk/UserGenerator) [Showcase](https://berkanktk.github.io/UserGenerator/) |
 | Procedural Map Generation | A simple demonstration of a procedurally generated map in  Unity. | Game Dev | Finished | [Repository](https://github.com/Berkanktk/ProceduralMapGeneration-Unity) |
 | FarmingRPG | A simple farming RPG game made in Unity. | Game Dev | Finished | - |
-| Troll-site | A troll site made during a boring night. | Website | Finished | - |
 | HowLongToBeatAPI | An api to get game completion information from HLTB. | Website | Finished | [Repository](https://github.com/Berkanktk/HowLongToBeatAPI) [Showcase](https://hltb.berkankutuk.dk/) |
 | CurrencyConverter | Simple single/multi-view real-time currency converter with daily exchange rates | Website | Finished | [Showcase](https://currency.berkankutuk.dk) |
 | Website-analyzer | Analyze and see screen dumps of websites without ever visiting them. | Website | Finished | [Showcase](https://check.berkankutuk.dk) |
