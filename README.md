@@ -43,7 +43,7 @@ This page contains a list of all my projects. It is a work in progress and will 
 |---|---|---|---|---|
 | Debugger | A simple web debugger. | Website | Finished | [Showcase](https://debug.berkankutuk.dk/) |
 | MarkDocX | A notebook app that lets you write markdown, while autosaving the work in a SQLite3 database. | Website | Finished | [Repository](https://github.com/Berkanktk/MarkDocX) |
-| User Generator | A simple fake user generator. | Website | Finished | [Repository](https://github.com/Berkanktk/UserGenerator) [Showcase](https://berkanktk.github.io/UserGenerator/) |
+| User Generator | A simple fake user generator. | Website | Finished | [Showcase](https://berkanktk.github.io/UserGenerator/) |
 | Procedural Map Generation | A simple demonstration of a procedurally generated map in  Unity. | Game Dev | Finished | [Repository](https://github.com/Berkanktk/ProceduralMapGeneration-Unity) |
 | FarmingRPG | A simple farming RPG game made in Unity. | Game Dev | Finished | - |
 | HowLongToBeatAPI | An api to get game completion information from HLTB. | Website | Finished | [Repository](https://github.com/Berkanktk/HowLongToBeatAPI) [Showcase](https://hltb.berkankutuk.dk/) |
