@@ -33,7 +33,9 @@ This page contains a list of all my projects. It is a work in progress and will 
 |---|---|---|---|---|
 | MyScratchMap | A simple and minimalistic virtual scratch map. | Website | Maintained | [Repository](https://github.com/Berkanktk/myscratchmap) [Showcase](https://myscratchmap.net/) [Showcase (Beta)](https://beta.myscratchmap.net/) |
 | NutrientGuide | An educational reference site for daily vitamin and mineral intake recommendations. | Website | Maintained | [Repository](https://github.com/Berkanktk/NutrientGuide) [Showcase](https://nutrientguide.org/) |
+| CogniTrain | Cognitive training suite with many mini-games that test memory, attention, processing speed, and executive function. | Website | Finished | [Showcase](https://cogni.berkankutuk.dk/) | 
 | Censora | A browser-based image censoring and redaction tool. | Website | Finished | [Repository](https://github.com/Berkanktk/Censora) [Showcase](https://censora.berkankutuk.dk/) |
+| Morse | An interactive and visual morse code training site. | Website | Finished | [Repository](https://github.com/Berkanktk/morse-code) [Showcase](https://morse.berkankutuk.dk/) |
 | CharacterAnalyzer | A simple yet powerful character analyzer built with SvelteKit, Tailwind, and DaisyUI. | Website | Finished | [Repository](https://github.com/Berkanktk/CharacterAnalyzer) [Showcase](https://berkanktk.github.io/CharacterAnalyzer/) |
 | AlgorithmVisualizer | Visualizing different search, sort, pathfinding & maze generation algorithms. | Website | Finished | [Repository](https://github.com/Berkanktk/Algorithm-visualizer) [Showcase](https://berkanktk.github.io/Algorithm-visualizer/) |
 | RepoExplorer | A feature-rich GitHub Repository Explorer with advanced filtering and sorting of repositories. | Website | Finished | [Repository](https://github.com/Berkanktk/RepoExplorer) [Showcase](https://gh.berkankutuk.dk/) |
@@ -48,6 +50,7 @@ This page contains a list of all my projects. It is a work in progress and will 
 | Fonts             | A playground for fonts.                                                                                | Website | Finished | [Showcase](https://fonts.berkankutuk.dk/)                                                               |
 | HowLongToBeatAPI  | An API to get game completion information from HLTB.                                                   | Website | Finished | [Repository](https://github.com/Berkanktk/HowLongToBeatAPI) [Showcase](https://hltb.berkankutuk.dk/)    |
 | HueHome           | A frontend-wrapper for managing Philips Hue Smart devices.                                             | Website | Finished | - |
+| LuckyWheel        | A rigged spin-the-whell.                                                                               | Website | Finished | [Showcase](https://lucky-wheel-hazel.vercel.app/)                                            |
 | Map               | A custom map made with Mapbox which provides several useful features.                                  | Website | Finished | [Repository](https://github.com/Berkanktk/map) [Showcase](https://map.berkankutuk.dk/)                  |
 | MarkDocX          | A notebook app that lets you write Markdown while automatically saving the work in a SQLite3 database. | Website | Finished | [Repository](https://github.com/Berkanktk/MarkDocX)                                                     |
 | Sharemefy         | A social media link-sharing platform.                                                                  | Website | Finished | [Repository](https://github.com/Berkanktk/Sharemefy/)                                                   |
@@ -75,8 +78,8 @@ This page contains a list of all my projects. It is a work in progress and will 
 | HTBAcademyHider | An extenstion that hides finished modules on the HackTheBox Academy platform. | Extension | Finished | [Repository](https://github.com/Berkanktk/HTBAcademyHider) [Showcase](https://chrome.google.com/webstore/detail/htbacademyhider/ekcmengdoepjkfpjngbgfpmgdejlechc) |
 | YTPlaylistDurationSorter | A Chrome extension for sorting YouTube playlists by video length. | Extension | Archived | - |
 | RealisticDreams | A Minecraft plugin that adds dreams and buffs based on the player's sleep. | Plugin | Finished | [Repository](https://github.com/Berkanktk/RealisticDreams) [Showcase](https://www.spigotmc.org/resources/realisticdreams.114992/) |
-| attack-cli | Commercial aircraft specs, airport lookup, and distance calculator for Homebrew. | Formulae | Finished | [Repository](https://github.com/Berkanktk/aviation-cli) |
-| aviator-cli | MITRE ATT&CK technique explorer for Homebrew. | Formulae | Finished | [Repository](https://github.com/Berkanktk/attack-cli) |
+| attack-cli (Homebrew) | Commercial aircraft specs, airport lookup, and distance calculator for Homebrew. | Formulae | Finished | [Repository](https://github.com/Berkanktk/aviation-cli) |
+| aviator-cli (Homebrew) | MITRE ATT&CK technique explorer for Homebrew. | Formulae | Finished | [Repository](https://github.com/Berkanktk/attack-cli) |
 
 # Useful Scripts
 | Name | Description | Type | Status | Project Links |
