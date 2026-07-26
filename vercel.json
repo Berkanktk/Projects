@@ -1,0 +1,3 @@
+{
+  "buildCommand": "cp README.md content.md"
+}
