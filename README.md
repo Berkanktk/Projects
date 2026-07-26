@@ -1,7 +1,7 @@
 # Introduction
-This page contains a list of all my projects. It is a work in progress and will be updated as I work on more projects. 
+This page contains a collection of projects I have built over the past 6 years and will be continuously updated.
 
-> Private projects without links are showcased on my personal website.
+> Some private projects without links are showcased on my personal website.
 
 # Table of Contents
 * [Personal Projects](#personal-projects)
