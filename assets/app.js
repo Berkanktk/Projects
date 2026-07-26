@@ -1,7 +1,7 @@
 (function () {
   "use strict";
 
-  const README_PATH = "../README.md";
+  const README_PATH = "README.md";
 
   const contentEl = document.getElementById("content");
   const subtitleEl = document.querySelector(".subtitle");
