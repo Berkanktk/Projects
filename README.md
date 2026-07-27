@@ -1,7 +1,10 @@
 # Introduction
-This page contains a collection of projects I have built over the past 6 years and will be continuously updated.
+This page contains a collection of projects I have built over the past 6 years and will be continuously updated. 
 
 > Some private projects without links are showcased on my personal website.
+
+![Hits](https://hits.sh/github.com/Berkanktk/Projects.svg?label=Visitors)
+![Last Commit](https://img.shields.io/github/last-commit/Berkanktk/Projects)
 
 # Table of Contents
 * [Personal Projects](#personal-projects)
