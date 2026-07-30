@@ -23,6 +23,7 @@ This page contains a collection of projects I have built over the past 6 years a
 | Personal Website | My personal website.                          | Website | Maintained | [Showcase](https://berkankutuk.dk/)       |
 | Blog             | A place where I blog about different topics.  | Website | Maintained | [Showcase](https://blog.berkankutuk.dk/)  |
 | Certificates     | A collection of all my obtained certificates. | Website | Maintained | [Showcase](https://certs.berkankutuk.dk/) |
+| URL Shortener    | A personal URL shortener.                     | Website | Maintained | Invite only |
 
 # Learning Materials
 | Name          | Description                                                                                                        | Platform   | Status     | Project Links                                            |
@@ -42,7 +43,10 @@ This page contains a collection of projects I have built over the past 6 years a
 | CharacterAnalyzer   | A simple yet powerful character analyzer built with SvelteKit, Tailwind, and DaisyUI.                                | Website | Finished   | [Repository](https://github.com/Berkanktk/CharacterAnalyzer) [Showcase](https://berkanktk.github.io/CharacterAnalyzer/)                         |
 | AlgorithmVisualizer | Visualizing different search, sort, pathfinding & maze generation algorithms.                                        | Website | Finished   | [Repository](https://github.com/Berkanktk/Algorithm-visualizer) [Showcase](https://berkanktk.github.io/Algorithm-visualizer/)                   |
 | RepoExplorer        | A feature-rich GitHub Repository Explorer with advanced filtering and sorting of repositories.                       | Website | Finished   | [Repository](https://github.com/Berkanktk/RepoExplorer) [Showcase](https://gh.berkankutuk.dk/)                                                  |
-| SecretMarkdocs      | A simple yet powerful Markdown-based note app, designed to make sharing your notes simple, fast and secure.          | Website | Finished   | [Repository](https://github.com/Berkanktk/SecretMarkdocs) [Showcase](https://vault.berkankutuk.dk/demo)                                         |
+| SecretMarkdocs      | A simple yet powerful Markdown-based note app, designed to make sharing your notes simple, fast and secure.          | Website | Finished   | [Repository](https://github.com/Berkanktk/SecretMarkdocs) [Showcase]()                                         |
+| Indsats             | A dashboard for monitoring real-time updates from Danish police districts and emergency services via combined RSS feeds.          | Website | Finished   | [Showcase](http://indsats.berkankutuk.dk/) |
+| Mood & Habit Tracker | A gamified mood and habit tracker                                                                                   | Website | Finished   | Invite only |
+| Page Counter        | A simple yet powerful page counter providing advanced analytics.                                                     | Website | Maintained | Invite only |
 
 # Tools, Experiments & Prototypes
 | Name              | Description                                                                                            | Type    | Status   | Project Links                                                                                           |
