@@ -104,6 +104,15 @@ This page contains a collection of projects I have built over the past 6 years a
 | Name | Description                                                                                                          | Type         | Status   | Project Links                           |
 | ---- | -------------------------------------------------------------------------------------------------------------------- | ------------ | -------- | --------------------------------------- |
 | CTF  | A Personal CTF challenge covering OSINT, Steganography, Linux CLI, Password cracking, privilege escalation and more. | Multi-tiered | Finished | [Showcase](https://ctf.berkankutuk.dk/) |
+| The Typo Collector | A short cryptography challenge involving Caesar cipher decryption of Danish text. | Single | Finished | - |
+| The Password is... Obvious | A multi-layered steganography challenge requiring several hidden clues to be uncovered. | Single | Finished | - |
+| Echoes of Rick |An audio forensics challenge involving Morse code decoding and steganographic extraction from WAV files. | Single | Finished | - |
+| NetSniff | A network analysis challenge teaching HTTP traffic, DNS leaks, and VPN protection. | Multi-tiered | Finished | - |
+| Corporate Bait | A phishing awareness challenge where players must identify and safely handle malicious emails before clocking off. | Single | Finished | - |
+| CTX-01 | A challenge filled with various web-based vulnerabilities each leading to a flag. | Multi-tiered | Finished | - |
+| CTX-02 | A forensics investigation build around a fictional criminal case and a digital evidence dump. | Multi-tiered | Finished | - |
+| SoMe OSINT | A realistic social media platform simulator for OSINT and social engineering training. | Multi-tiered | Finished | - |
+| The Danish Cyber Challenge | Mathematical and cryptographic CTF challenges in Danish, designed for The Danish Cyber Challenge for schools. | Multi-tiered | Finished | - |
 
 ---
 \* For now
