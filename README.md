@@ -1,5 +1,6 @@
 # Introduction
-This page contains a collection of projects I have built over the past 6 years and will be continuously updated. 
+
+This page contains a collection of projects I have built over the past 6 years and will be continuously updated.
 
 > Some private projects without links are showcased on my personal website.
 
@@ -7,25 +8,28 @@ This page contains a collection of projects I have built over the past 6 years a
 ![Last Commit](https://img.shields.io/github/last-commit/Berkanktk/Projects)
 
 # Table of Contents
-* [Personal Projects](#personal-projects)
-* [Learning Materials](#learning-materials)
-* [Products & Applications](#products--applications)
-* [Tools, Experiments & Prototypes](#tools-experiments--prototypes)
-* [Game Development](#game-development)
-* [Desktop & Mobile Applications](#desktop--mobile-applications)
-* [Plugins, Extensions, Addons & Mods](#plugins-extensions-addons--mods)
-* [Useful Scripts](#useful-scripts)
-* [Capture The Flags (CTFs)](#capture-the-flags-ctfs)
+
+- [Personal Projects](#personal-projects)
+- [Learning Materials](#learning-materials)
+- [Products & Applications](#products--applications)
+- [Tools, Experiments & Prototypes](#tools-experiments--prototypes)
+- [Game Development](#game-development)
+- [Desktop & Mobile Applications](#desktop--mobile-applications)
+- [Plugins, Extensions, Addons & Mods](#plugins-extensions-addons--mods)
+- [Useful Scripts](#useful-scripts)
+- [Capture The Flags (CTFs)](#capture-the-flags-ctfs)
 
 # Personal Projects
+
 | Name             | Description                                   | Type    | Status     | Project Links                             |
 | ---------------- | --------------------------------------------- | ------- | ---------- | ----------------------------------------- |
 | Personal Website | My personal website.                          | Website | Maintained | [Showcase](https://berkankutuk.dk/)       |
 | Blog             | A place where I blog about different topics.  | Website | Maintained | [Showcase](https://blog.berkankutuk.dk/)  |
 | Certificates     | A collection of all my obtained certificates. | Website | Maintained | [Showcase](https://certs.berkankutuk.dk/) |
-| URL Shortener    | A personal URL shortener.                     | Website | Maintained | Invite only |
+| URL Shortener    | A personal URL shortener.                     | Website | Maintained | Invite only                               |
 
 # Learning Materials
+
 | Name          | Description                                                                                                        | Platform   | Status     | Project Links                                            |
 | ------------- | ------------------------------------------------------------------------------------------------------------------ | ---------- | ---------- | -------------------------------------------------------- |
 | Cybersecurity | A collection of essential and foundational cybersecurity knowledge, thoughtfully organized for easy comprehension. | Repository | Maintained | [Repository](https://github.com/Berkanktk/CyberSecurity) |
@@ -33,56 +37,64 @@ This page contains a collection of projects I have built over the past 6 years a
 | Sensors       | Playground for sensors, modules and radio transceivers.                                                            | Repository | Maintained | [Repository](https://github.com/Berkanktk/sensors)       |
 
 # Products & Applications
-| Name                | Description                                                                                                          | Type    | Status     | Project Links                                                                                                                                   |
-| ------------------- | -------------------------------------------------------------------------------------------------------------------- | ------- | ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
-| MyScratchMap        | A simple and minimalistic virtual scratch map.                                                                       | Website | Maintained | [Repository](https://github.com/Berkanktk/myscratchmap) [Showcase](https://myscratchmap.net/) [Showcase (Beta)](https://beta.myscratchmap.net/) |
-| NutrientGuide       | An educational reference site for daily vitamin and mineral intake recommendations.                                  | Website | Maintained | [Repository](https://github.com/Berkanktk/NutrientGuide) [Showcase](https://nutrientguide.org/)                                                 |
-| CogniTrain          | Cognitive training suite with many mini-games that test memory, attention, processing speed, and executive function. | Website | Finished   | [Showcase](https://cogni.berkankutuk.dk/)                                                                                                       |
-| Censora             | A browser-based image censoring and redaction tool.                                                                  | Website | Finished   | [Repository](https://github.com/Berkanktk/Censora) [Showcase](https://censora.berkankutuk.dk/)                                                  |
-| Morse               | An interactive and visual morse code training site.                                                                  | Website | Finished   | [Repository](https://github.com/Berkanktk/morse-code) [Showcase](https://morse.berkankutuk.dk/)                                                 |
-| CharacterAnalyzer   | A simple yet powerful character analyzer built with SvelteKit, Tailwind, and DaisyUI.                                | Website | Finished   | [Repository](https://github.com/Berkanktk/CharacterAnalyzer) [Showcase](https://berkanktk.github.io/CharacterAnalyzer/)                         |
-| AlgorithmVisualizer | Visualizing different search, sort, pathfinding & maze generation algorithms.                                        | Website | Finished   | [Repository](https://github.com/Berkanktk/Algorithm-visualizer) [Showcase](https://berkanktk.github.io/Algorithm-visualizer/)                   |
-| RepoExplorer        | A feature-rich GitHub Repository Explorer with advanced filtering and sorting of repositories.                       | Website | Finished   | [Repository](https://github.com/Berkanktk/RepoExplorer) [Showcase](https://gh.berkankutuk.dk/)                                                  |
-| SecretMarkdocs      | A simple yet powerful Markdown-based note app, designed to make sharing your notes simple, fast and secure.          | Website | Finished   | [Repository](https://github.com/Berkanktk/SecretMarkdocs) [Showcase]()                                         |
-| Indsats             | A dashboard for monitoring real-time updates from Danish police districts and emergency services via combined RSS feeds.          | Website | Finished   | [Showcase](http://indsats.berkankutuk.dk/) |
-| Mood & Habit Tracker | A gamified mood and habit tracker                                                                                   | Website | Finished   | Invite only |
-| Page Counter        | A simple yet powerful page counter providing advanced analytics.                                                     | Website | Maintained | Invite only |
+
+| Name                 | Description                                                                                                              | Type    | Status     | Project Links                                                                                                                                   |
+| -------------------- | ------------------------------------------------------------------------------------------------------------------------ | ------- | ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| MyScratchMap         | A simple and minimalistic virtual scratch map.                                                                           | Website | Maintained | [Repository](https://github.com/Berkanktk/myscratchmap) [Showcase](https://myscratchmap.net/) [Showcase (Beta)](https://beta.myscratchmap.net/) |
+| NutrientGuide        | An educational reference site for daily vitamin and mineral intake recommendations.                                      | Website | Maintained | [Repository](https://github.com/Berkanktk/NutrientGuide) [Showcase](https://nutrientguide.org/)                                                 |
+| CogniTrain           | Cognitive training suite with many mini-games that test memory, attention, processing speed, and executive function.     | Website | Finished   | [Showcase](https://cogni.berkankutuk.dk/)                                                                                                       |
+| Censora              | A browser-based image censoring and redaction tool.                                                                      | Website | Finished   | [Repository](https://github.com/Berkanktk/Censora) [Showcase](https://censora.berkankutuk.dk/)                                                  |
+| Morse                | An interactive and visual morse code training site.                                                                      | Website | Finished   | [Repository](https://github.com/Berkanktk/morse-code) [Showcase](https://morse.berkankutuk.dk/)                                                 |
+| CharacterAnalyzer    | A simple yet powerful character analyzer built with SvelteKit, Tailwind, and DaisyUI.                                    | Website | Finished   | [Repository](https://github.com/Berkanktk/CharacterAnalyzer) [Showcase](https://berkanktk.github.io/CharacterAnalyzer/)                         |
+| AlgorithmVisualizer  | Visualizing different search, sort, pathfinding & maze generation algorithms.                                            | Website | Finished   | [Repository](https://github.com/Berkanktk/Algorithm-visualizer) [Showcase](https://berkanktk.github.io/Algorithm-visualizer/)                   |
+| RepoExplorer         | A feature-rich GitHub Repository Explorer with advanced filtering and sorting of repositories.                           | Website | Finished   | [Repository](https://github.com/Berkanktk/RepoExplorer) [Showcase](https://gh.berkankutuk.dk/)                                                  |
+| SecretMarkdocs       | A simple yet powerful Markdown-based note app, designed to make sharing your notes simple, fast and secure.              | Website | Finished   | [Repository](https://github.com/Berkanktk/SecretMarkdocs) [Showcase]()                                                                          |
+| Indsats              | A dashboard for monitoring real-time updates from Danish police districts and emergency services via combined RSS feeds. | Website | Finished   | [Showcase](http://indsats.berkankutuk.dk/)                                                                                                      |
+| Mood & Habit Tracker | A gamified mood and habit tracker                                                                                        | Website | Finished   | Invite only                                                                                                                                     |
+| Page Counter         | A simple yet powerful page counter providing advanced analytics.                                                         | Website | Maintained | Invite only                                                                                                                                     |
+| CPH Wayfinder        | An interactive public transport map for Copenhagen and the surrounding region.                                           | Website | Finished   | [Repository](https://github.com/Berkanktk/cph-wayfinder) [Showcase](https://cph.berkankutuk.dk/)                                                |
 
 # Tools, Experiments & Prototypes
-| Name              | Description                                                                                            | Type    | Status   | Project Links                                                                                           |
-| ----------------- | ------------------------------------------------------------------------------------------------------ | ------- | -------- | ------------------------------------------------------------------------------------------------------- |
-| Bodycalc          | A simple BMI, BMR & BFP calculator.                                                                    | Website | Finished | [Showcase](https://bodycalc.berkankutuk.dk/)                                                            |
-| CurrencyConverter | Simple single/multi-view real-time currency converter with daily exchange rates.                       | Website | Finished | [Showcase](https://currency.berkankutuk.dk)                                                             |
-| Debugger          | A simple web debugger.                                                                                 | Website | Finished | [Showcase](https://debug.berkankutuk.dk/)                                                               |
-| Datasets          | A comprehensive collection of various processed datasets.                                              | Repository | Finished | [Repository](https://github.com/Berkanktk/datasets/)                                                 |
-| Fonts             | A playground for fonts.                                                                                | Website | Finished | [Showcase](https://fonts.berkankutuk.dk/)                                                               |
-| History Timeline  | An interactive, scroll-based timeline covering 13.8 billion years of history.                          | Website | Finished | [Showcase](https://history.berkankutuk.dk/)                                                             |
-| HowLongToBeatAPI  | An API to get game completion information from HLTB.                                                   | Website | Finished | [Repository](https://github.com/Berkanktk/HowLongToBeatAPI) [Showcase](https://hltb.berkankutuk.dk/)    |
-| HueHome           | A frontend-wrapper for managing Philips Hue Smart devices.                                             | Website | Finished | -                                                                                                       |
-| LuckyWheel        | A rigged spin-the-whell.                                                                               | Website | Finished | [Showcase](https://lucky-wheel-hazel.vercel.app/)                                                       |
-| Map               | A custom map made with Mapbox which provides several useful features.                                  | Website | Finished | [Repository](https://github.com/Berkanktk/map) [Showcase](https://map.berkankutuk.dk/)                  |
-| MarkDocX          | A notebook app that lets you write Markdown while automatically saving the work in a SQLite3 database. | Website | Finished | [Repository](https://github.com/Berkanktk/MarkDocX)                                                     |
-| Sharemefy         | A social media link-sharing platform.                                                                  | Website | Finished | [Repository](https://github.com/Berkanktk/Sharemefy/)                                                   |
-| SimpleCountdown   | A simple countdown made with Svelte and Tailwind/DaisyUI.                                              | Website | Finished | [Showcase](https://berkanktk.github.io/SimpleCountdown/)                                                |
-| TreamTrack        | Real-time field coordination. Share GPS position, drop map markers, and manage tasks with your team.   | Website | Finished | [Showcase](https://track.berkankutuk.dk)                                                                |
-| User Generator    | A simple fake user generator.                                                                          | Website | Finished | [Showcase](https://berkanktk.github.io/UserGenerator/)                                                  |
-| Weatherly         | A minimalistic weather app made with Svelte and Tailwind/DaisyUI.                                      | Website | Finished | [Repository](https://github.com/Berkanktk/Weatherly) [Showcase](https://berkanktk.github.io/Weatherly/) |
-| Website-analyzer  | Analyze websites and view screenshots without ever visiting them.                                      | Website | Finished | [Showcase](https://check.berkankutuk.dk)                                                                |
-| WireWatch         | An interval-based news fetcher.                                                                        | Website | Finished | [Repository](https://github.com/Berkanktk/YoutubeDownloader)                                            |
+
+| Name              | Description                                                                                            | Type       | Status   | Project Links                                                                                           |
+| ----------------- | ------------------------------------------------------------------------------------------------------ | ---------- | -------- | ------------------------------------------------------------------------------------------------------- |
+| Bodycalc          | A simple BMI, BMR & BFP calculator.                                                                    | Website    | Finished | [Showcase](https://bodycalc.berkankutuk.dk/)                                                            |
+| CurrencyConverter | Simple single/multi-view real-time currency converter with daily exchange rates.                       | Website    | Finished | [Showcase](https://currency.berkankutuk.dk)                                                             |
+| Debugger          | A simple web debugger.                                                                                 | Website    | Finished | [Showcase](https://debug.berkankutuk.dk/)                                                               |
+| Datasets          | A comprehensive collection of various processed datasets.                                              | Repository | Finished | [Repository](https://github.com/Berkanktk/datasets/)                                                    |
+| Fonts             | A playground for fonts.                                                                                | Website    | Finished | [Showcase](https://fonts.berkankutuk.dk/)                                                               |
+| History Timeline  | An interactive, scroll-based timeline covering 13.8 billion years of history.                          | Website    | Finished | [Showcase](https://history.berkankutuk.dk/)                                                             |
+| HowLongToBeatAPI  | An API to get game completion information from HLTB.                                                   | Website    | Finished | [Repository](https://github.com/Berkanktk/HowLongToBeatAPI) [Showcase](https://hltb.berkankutuk.dk/)    |
+| HueHome           | A frontend-wrapper for managing Philips Hue Smart devices.                                             | Website    | Finished | -                                                                                                       |
+| LuckyWheel        | A rigged spin-the-wheell.                                                                              | Website    | Finished | [Showcase](https://lucky-wheel-hazel.vercel.app/)                                                       |
+| Map               | A custom map made with Mapbox which provides several useful features.                                  | Website    | Finished | [Repository](https://github.com/Berkanktk/map) [Showcase](https://map.berkankutuk.dk/)                  |
+| MarkDocX          | A notebook app that lets you write Markdown while automatically saving the work in a SQLite3 database. | Website    | Finished | [Repository](https://github.com/Berkanktk/MarkDocX)                                                     |
+| Sharemefy         | A social media link-sharing platform.                                                                  | Website    | Finished | [Repository](https://github.com/Berkanktk/Sharemefy/)                                                   |
+| SimpleCountdown   | A simple countdown made with Svelte and Tailwind/DaisyUI.                                              | Website    | Finished | [Showcase](https://berkanktk.github.io/SimpleCountdown/)                                                |
+| TreamTrack        | Real-time field coordination. Share GPS position, drop map markers, and manage tasks with your team.   | Website    | Finished | [Showcase](https://track.berkankutuk.dk)                                                                |
+| User Generator    | A simple fake user generator.                                                                          | Website    | Finished | [Showcase](https://berkanktk.github.io/UserGenerator/)                                                  |
+| Weatherly         | A minimalistic weather app made with Svelte and Tailwind/DaisyUI.                                      | Website    | Finished | [Repository](https://github.com/Berkanktk/Weatherly) [Showcase](https://berkanktk.github.io/Weatherly/) |
+| Website-analyzer  | Analyze websites and view screenshots without ever visiting them.                                      | Website    | Finished | [Showcase](https://check.berkankutuk.dk)                                                                |
+| WireWatch         | An interval-based news fetcher.                                                                        | Website    | Finished | [Repository](https://github.com/Berkanktk/YoutubeDownloader)                                            |
 
 # Game Development
-| Name                      | Description                                                       | Platform | Status   | Project Links |
-| ------------------------- | ----------------------------------------------------------------- | -------- | -------- | ------------- |
-| Procedural Map Generation | A simple demonstration of a procedurally generated map in  Unity. | Game Dev | Finished | -             |
-| FarmingRPG                | A simple farming RPG game made in Unity.                          | Game Dev | Finished | -             |
-| PyCLIGame                 | CLI-based adventure game made with Python.                        | Game Dev | Finished | -             |
+
+| Name                      | Description                                                      | Platform | Status   | Project Links |
+| ------------------------- | ---------------------------------------------------------------- | -------- | -------- | ------------- | ------------------------------------------ |
+| Procedural Map Generation | A simple demonstration of a procedurally generated map in Unity. | Game Dev | Finished | -             |
+| FarmingRPG                | A simple farming RPG game made in Unity.                         | Game Dev | Finished | -             |
+| PyCLIGame                 | CLI-based adventure game made with Python.                       | Game Dev | Finished | -             |
+| ValleyCompanion           | Stardew Valley reference and planning app.                       | Game Doc | Finished | Finished      | [Showcase](https://stardew.berkankutuk.dk) |
 
 # Desktop & Mobile Applications
-| Name           | Description                                                                                  | Platform | Status   | Project Links                                             |
-| -------------- | -------------------------------------------------------------------------------------------- | -------- | -------- | --------------------------------------------------------- |
-| BetterNotebook | A simple and minimalistic windows notebook alternative made with Electron, Vite, and Svelte. | Desktop  | Finished | [Repository](https://github.com/Berkanktk/BetterNotebook) |
+
+| Name           | Description                                                                                                                                | Platform | Status   | Project Links                                             |
+| -------------- | ------------------------------------------------------------------------------------------------------------------------------------------ | -------- | -------- | --------------------------------------------------------- |
+| BetterNotebook | A simple and minimalistic windows notebook alternative made with Electron, Vite, and Svelte.                                               | Desktop  | Finished | [Repository](https://github.com/Berkanktk/BetterNotebook) |
+| Scope          | A fast, modern Windows file explorer with powerful previews, recursive search, split-pane browsing, and a polished customizable interface. | Desktop  | Finished | [Repository](https://github.com/Berkanktk/scope-explorer) |
 
 # Plugins, Extensions, Addons & Mods
+
 | Name                     | Description                                                                      | Type      | Status   | Project Links                                                                                                                                                     |
 | ------------------------ | -------------------------------------------------------------------------------- | --------- | -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | HTBAcademyHider          | An extenstion that hides finished modules on the HackTheBox Academy platform.    | Extension | Finished | [Repository](https://github.com/Berkanktk/HTBAcademyHider) [Showcase](https://chrome.google.com/webstore/detail/htbacademyhider/ekcmengdoepjkfpjngbgfpmgdejlechc) |
@@ -92,6 +104,7 @@ This page contains a collection of projects I have built over the past 6 years a
 | aviator-cli (Homebrew)   | MITRE ATT&CK technique explorer for Homebrew.                                    | Formulae  | Finished | [Repository](https://github.com/Berkanktk/attack-cli)                                                                                                             |
 
 # Useful Scripts
+
 | Name           | Description                                                        | Type    | Status     | Project Links                                                |
 | -------------- | ------------------------------------------------------------------ | ------- | ---------- | ------------------------------------------------------------ |
 | BeReal Fetcher | Reverse Engineered BeReal to scrape data without posting anything. | Script  | Finished   | [Repository](https://github.com/Berkanktk/BeReal-Fetcher)    |
@@ -101,25 +114,22 @@ This page contains a collection of projects I have built over the past 6 years a
 | Merge2Mono     | Merge a repository into a monorepo                                 | Script  | Finished   | [Repository](https://github.com/Berkanktk/Merge2Mono)        |
 
 # Capture The Flags (CTFs)
-| Name | Description                                                                                                          | Type         | Status   | Project Links                           |
-| ---- | -------------------------------------------------------------------------------------------------------------------- | ------------ | -------- | --------------------------------------- |
-| CTF  | A Personal CTF challenge covering OSINT, Steganography, Linux CLI, Password cracking, privilege escalation and more. | Multi-tiered | Finished | [Showcase](https://ctf.berkankutuk.dk/) |
-| The Typo Collector | A short cryptography challenge involving Caesar cipher decryption of Danish text. | Single | Finished | - |
-| The Password is... Obvious | A multi-layered steganography challenge requiring several hidden clues to be uncovered. | Single | Finished | - |
-| Echoes of Rick |An audio forensics challenge involving Morse code decoding and steganographic extraction from WAV files. | Single | Finished | - |
-| NetSniff | A network analysis challenge teaching HTTP traffic, DNS leaks, and VPN protection. | Multi-tiered | Finished | - |
-| Corporate Bait | A phishing awareness challenge where players must identify and safely handle malicious emails before clocking off. | Single | Finished | - |
-| CTX-01 | A challenge filled with various web-based vulnerabilities each leading to a flag. | Multi-tiered | Finished | - |
-| CTX-02 | A forensics investigation build around a fictional criminal case and a digital evidence dump. | Multi-tiered | Finished | - |
-| SoMe OSINT | A realistic social media platform simulator for OSINT and social engineering training. | Multi-tiered | Finished | - |
-| The Danish Cyber Challenge | Mathematical and cryptographic CTF challenges in Danish, designed for The Danish Cyber Challenge for schools. | Multi-tiered | Finished | - |
+
+| Name                       | Description                                                                                                          | Type         | Status   | Project Links                           |
+| -------------------------- | -------------------------------------------------------------------------------------------------------------------- | ------------ | -------- | --------------------------------------- |
+| CTF                        | A Personal CTF challenge covering OSINT, Steganography, Linux CLI, Password cracking, privilege escalation and more. | Multi-tiered | Finished | [Showcase](https://ctf.berkankutuk.dk/) |
+| The Typo Collector         | A short cryptography challenge involving Caesar cipher decryption of Danish text.                                    | Single       | Finished | -                                       |
+| The Password is... Obvious | A multi-layered steganography challenge requiring several hidden clues to be uncovered.                              | Single       | Finished | -                                       |
+| Echoes of Rick             | An audio forensics challenge involving Morse code decoding and steganographic extraction from WAV files.             | Single       | Finished | -                                       |
+| NetSniff                   | A network analysis challenge teaching HTTP traffic, DNS leaks, and VPN protection.                                   | Multi-tiered | Finished | -                                       |
+| Corporate Bait             | A phishing awareness challenge where players must identify and safely handle malicious emails before clocking off.   | Single       | Finished | -                                       |
+| CTX-01                     | A challenge filled with various web-based vulnerabilities each leading to a flag.                                    | Multi-tiered | Finished | -                                       |
+| CTX-02                     | A forensics investigation build around a fictional criminal case and a digital evidence dump.                        | Multi-tiered | Finished | -                                       |
+| SoMe OSINT                 | A realistic social media platform simulator for OSINT and social engineering training.                               | Multi-tiered | Finished | -                                       |
+| The Danish Cyber Challenge | Mathematical and cryptographic CTF challenges in Danish, designed for The Danish Cyber Challenge for schools.        | Multi-tiered | Finished | -                                       |
 
 ---
+
 \* For now
 
 Find many more projects/courses I've taken in the University [here](https://github.com/Berkanktk/Student).
-
-
-
-
-
