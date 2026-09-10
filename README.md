@@ -79,12 +79,12 @@ This page contains a collection of projects I have built over the past 6 years a
 
 # Game Development
 
-| Name                      | Description                                                      | Platform | Status   | Project Links |
-| ------------------------- | ---------------------------------------------------------------- | -------- | -------- | ------------- | ------------------------------------------ |
-| Procedural Map Generation | A simple demonstration of a procedurally generated map in Unity. | Game Dev | Finished | -             |
-| FarmingRPG                | A simple farming RPG game made in Unity.                         | Game Dev | Finished | -             |
-| PyCLIGame                 | CLI-based adventure game made with Python.                       | Game Dev | Finished | -             |
-| ValleyCompanion           | Stardew Valley reference and planning app.                       | Game Doc | Finished | Finished      | [Showcase](https://stardew.berkankutuk.dk) |
+| Name                      | Description                                                      | Platform | Status   | Project Links                              |
+| ------------------------- | ---------------------------------------------------------------- | -------- | -------- | ------------------------------------------ |
+| Procedural Map Generation | A simple demonstration of a procedurally generated map in Unity. | Game Dev | Finished | -                                          |
+| FarmingRPG                | A simple farming RPG game made in Unity.                         | Game Dev | Finished | -                                          |
+| PyCLIGame                 | CLI-based adventure game made with Python.                       | Game Dev | Finished | -                                          |
+| ValleyCompanion           | Stardew Valley reference and planning app.                       | Game Doc | Finished | [Showcase](https://stardew.berkankutuk.dk) |
 
 # Desktop & Mobile Applications
 
