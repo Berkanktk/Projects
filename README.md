@@ -90,14 +90,14 @@ This page contains a collection of projects I have built over the past 6 years a
 
 | Name           | Description                                                                                                                                | Platform | Status   | Project Links                                             |
 | -------------- | ------------------------------------------------------------------------------------------------------------------------------------------ | -------- | -------- | --------------------------------------------------------- |
-| BetterNotebook | A simple and minimalistic windows notebook alternative made with Electron, Vite, and Svelte.                                               | Desktop  | Finished | [Repository](https://github.com/Berkanktk/BetterNotebook) |
+| BetterNotebook | A simple and minimalistic Windows notebook alternative made with Electron, Vite, and Svelte.                                               | Desktop  | Finished | [Repository](https://github.com/Berkanktk/BetterNotebook) |
 | Scope          | A fast, modern Windows file explorer with powerful previews, recursive search, split-pane browsing, and a polished customizable interface. | Desktop  | Finished | [Repository](https://github.com/Berkanktk/scope-explorer) |
 
 # Plugins, Extensions, Addons & Mods
 
 | Name                     | Description                                                                      | Type      | Status   | Project Links                                                                                                                                                     |
 | ------------------------ | -------------------------------------------------------------------------------- | --------- | -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| HTBAcademyHider          | An extenstion that hides finished modules on the HackTheBox Academy platform.    | Extension | Finished | [Repository](https://github.com/Berkanktk/HTBAcademyHider) [Showcase](https://chrome.google.com/webstore/detail/htbacademyhider/ekcmengdoepjkfpjngbgfpmgdejlechc) |
+| HTBAcademyHider          | An extension that hides finished modules on the HackTheBox Academy platform.    | Extension | Finished | [Repository](https://github.com/Berkanktk/HTBAcademyHider) [Showcase](https://chrome.google.com/webstore/detail/htbacademyhider/ekcmengdoepjkfpjngbgfpmgdejlechc) |
 | YTPlaylistDurationSorter | A Chrome extension for sorting YouTube playlists by video length.                | Extension | Archived | -                                                                                                                                                                 |
 | RealisticDreams          | A Minecraft plugin that adds dreams and buffs based on the player's sleep.       | Plugin    | Finished | [Repository](https://github.com/Berkanktk/RealisticDreams) [Showcase](https://www.spigotmc.org/resources/realisticdreams.114992/)                                 |
 | attack-cli (Homebrew)    | Commercial aircraft specs, airport lookup, and distance calculator for Homebrew. | Formulae  | Finished | [Repository](https://github.com/Berkanktk/aviation-cli)                                                                                                           |
@@ -108,9 +108,9 @@ This page contains a collection of projects I have built over the past 6 years a
 | Name           | Description                                                        | Type    | Status     | Project Links                                                |
 | -------------- | ------------------------------------------------------------------ | ------- | ---------- | ------------------------------------------------------------ |
 | BeReal Fetcher | Reverse Engineered BeReal to scrape data without posting anything. | Script  | Finished   | [Repository](https://github.com/Berkanktk/BeReal-Fetcher)    |
-| CTF Solver     | A python toolbox to solve CTFs faster.                             | Toolbox | Developing | -                                                            |
-| Stock Checker  | Product stock checker made in selenium with Python.                | Script  | Finished   | [Repository](https://github.com/Berkanktk/StockChecker)      |
-| YTDownloader   | A simple command line YouTube downloader.                          | Script  | Finished   | [Repository](https://github.com/Berkanktk/YoutubeDownloader) |
+| CTF Solver     | A Python toolbox to solve CTFs faster.                             | Toolbox | Developing | -                                                            |
+| Stock Checker  | Product stock checker made in Selenium with Python.                | Script  | Finished   | [Repository](https://github.com/Berkanktk/StockChecker)      |
+| YTDownloader   | A simple command-line YouTube downloader.                          | Script  | Finished   | [Repository](https://github.com/Berkanktk/YoutubeDownloader) |
 | Merge2Mono     | Merge a repository into a monorepo                                 | Script  | Finished   | [Repository](https://github.com/Berkanktk/Merge2Mono)        |
 
 # Capture The Flags (CTFs)
@@ -124,7 +124,7 @@ This page contains a collection of projects I have built over the past 6 years a
 | NetSniff                   | A network analysis challenge teaching HTTP traffic, DNS leaks, and VPN protection.                                   | Multi-tiered | Finished | -                                       |
 | Corporate Bait             | A phishing awareness challenge where players must identify and safely handle malicious emails before clocking off.   | Single       | Finished | -                                       |
 | CTX-01                     | A challenge filled with various web-based vulnerabilities each leading to a flag.                                    | Multi-tiered | Finished | -                                       |
-| CTX-02                     | A forensics investigation build around a fictional criminal case and a digital evidence dump.                        | Multi-tiered | Finished | -                                       |
+| CTX-02                     | A forensics investigation built around a fictional criminal case and a digital evidence dump.                        | Multi-tiered | Finished | -                                       |
 | SoMe OSINT                 | A realistic social media platform simulator for OSINT and social engineering training.                               | Multi-tiered | Finished | -                                       |
 | The Danish Cyber Challenge | Mathematical and cryptographic CTF challenges in Danish, designed for The Danish Cyber Challenge for schools.        | Multi-tiered | Finished | -                                       |
 
